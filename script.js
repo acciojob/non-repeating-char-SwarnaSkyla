@@ -20,7 +20,7 @@ const input=prompt("Enter a string");
 const firstnonrepeat=nonRepeating(input);
 
 if(firstnonrepeat){
-	alert ("$[firstnonrepeat]")
+	alert ("$[firstnonrepeat]");
 }
 else{
 	alert("there is no repeated character");
